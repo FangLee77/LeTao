@@ -1,0 +1,40 @@
+.navlink {
+  width: 100%;
+  padding: 10px;
+  background-color: #fff;
+}
+.navlink ul {
+  width: 100%;
+}
+.navlink ul li {
+  width: 33.33%;
+  float: left;
+}
+.navlink ul li img {
+  width: 100%;
+}
+.brand {
+  width: 100%;
+  background-color: #fff;
+  padding: 10px;
+}
+.brand > img {
+  width: 100%;
+  display: block;
+}
+.brand ul {
+  width: 100%;
+  background-color: #fff;
+}
+.brand ul li {
+  width: 25%;
+  float: left;
+}
+.brand ul li a {
+  width: 100%;
+  display: block;
+}
+.brand ul li a img {
+  width: 100%;
+  vertical-align: top;
+}
